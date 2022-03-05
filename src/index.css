@@ -1,0 +1,6 @@
+.alert-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  max-width: 30vw;
+}
